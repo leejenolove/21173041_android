@@ -6,3 +6,9 @@
 <img width="" height="" src="./pic/3주차과제.png"></img>
 <img width="" height="" src="./pic/3주차과제2.png"></img>
 <img width="" height="" src="./pic/3주차과제3.png"></img>
+
+## 5주차 과제(2022-04-05)
+<img width="" height="" src="./pic/강아지화면.png"></img>
+<img width="" height="" src="./pic/고양이화면.png"></img>
+<img width="" height="" src="./pic/MainActivity.png"></img>
+<img width="" height="" src="./pic/activity_main.png"></img>
