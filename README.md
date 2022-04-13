@@ -12,3 +12,8 @@
 <img width="" height="" src="./pic/고양이화면.png"></img>
 <img width="" height="" src="./pic/MainActivity.png"></img>
 <img width="" height="" src="./pic/activity_main.png"></img>
+
+## 6주차 과제(2202-04-12)
+<img width="" height="" src="./pic/넓이.png"></img>
+<img width="" height="" src="./pic/높이.png"></img>
+<img width="" height="" src="./pic/버튼.png"></img>
