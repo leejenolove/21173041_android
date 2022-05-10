@@ -17,3 +17,10 @@
 <img width="" height="" src="./pic/넓이.png"></img>
 <img width="" height="" src="./pic/높이.png"></img>
 <img width="" height="" src="./pic/버튼.png"></img>
+
+## 10주차 과제(2202-05-10)
+<img width="" height="" src="./pic/메뉴화면띄우기.png"></img>
+<img width="" height="" src="./pic/메뉴 엑티비티.png"></img>
+<img width="" height="" src="./pic/결과화면.png"></img>
+<img width="" height="" src="./pic/메인코드.png"></img>
+<img width="" height="" src="./pic/메뉴코드.png"></img>
